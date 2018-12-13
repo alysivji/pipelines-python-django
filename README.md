@@ -1,5 +1,7 @@
 # Sample Python app for Azure Pipelines docs
 
+[![Build Status](https://dev.azure.com/alysivji/django-app-example/_apis/build/status/alysivji.pipelines-python-django?branchName=master)](https://dev.azure.com/alysivji/django-app-example/_build/latest?definitionId=1?branchName=master)
+
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
 | Example | Build status |
